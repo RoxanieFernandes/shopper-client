@@ -1,0 +1,12 @@
+/* .check-button {
+   
+} */
+
+.check-button button {
+    width: 10vw;
+    height: 5vh;
+    background-color: #38a67e;
+    color: #f2f2f2;
+    border: none;
+    border-radius: 5px;
+  }

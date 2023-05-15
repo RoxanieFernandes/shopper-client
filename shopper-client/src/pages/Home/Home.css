@@ -1,0 +1,37 @@
+* {
+  color: #1f1e40;
+}
+
+.home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 5vh;
+}
+
+.home-text {
+  text-align: justify;
+}
+
+.home-text h1 {
+  font-size: 3vw;
+}
+
+.home-text p {
+  color: #38a67e;
+  font-size: 1vw;
+}
+
+.home-all-text {
+  width: 40vw;
+}
+
+.file {
+  padding-left: 10em;
+  width: 22vw;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-around;
+}
